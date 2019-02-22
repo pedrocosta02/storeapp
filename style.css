@@ -1,0 +1,123 @@
+body
+{
+    margin: 0;
+    background-image: linear-gradient(#d0d0d0 , #fff);
+    height: 100vh;
+}
+
+main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.tela1_grid-shop
+{
+    width: 20%;
+    height: 82vh;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 24px 49px -15px rgba(0,0,0,0.32);
+    margin: 4%;
+}
+
+.menu_grid-items
+{
+    width: 100%;
+    height: 12vh;
+    margin-top: 32px;
+}
+
+.fa-stream
+{
+    position: relative;
+    font-size: 1.4vw;
+    top: 15px;
+    left: 15px;
+    color: rgb(1, 2, 54);
+}
+    .fa-shopping-cart
+    {
+        position: relative;
+        font-size: 1.4vw;
+        top: 15px;
+        left: 214px;
+        color: rgb(1, 2, 54);
+    }
+
+.colec_title
+{
+    font-family: sans-serif;
+    font-size: 1.8vw;
+    font-weight: bold;
+    color: rgb(1, 2, 54);
+    padding-top: 16px;
+    padding-left: 15px;
+}
+    .span_sale-title
+    {
+        font-size: 1.6vw;
+        font-weight: normal;
+    }
+
+.chairs_items
+{
+    width: 88%;
+    height: 18vh;
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(239, 250, 227);
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.chairs_items-item
+{
+    position: relative;
+    left: 26px;
+}
+    .chairs_title-item
+    {
+        font-family: sans-serif;
+        color: rgb(1, 2, 54);
+        margin-bottom: 8px;
+    }
+    .chairs_space-item
+    {
+        width: 64%;
+        height: 1vh;
+        background-color: yellow;
+    }
+    .chairs_subtitle-item
+    {
+        font-family: sans-serif;
+        color: rgb(1, 2, 54);
+        margin-top: 11px;
+    }
+
+.chairs_image-item
+{
+    position: relative;
+    width: 50%;
+    left: 60px;
+}
+
+.tela2_grid-shop
+{
+    width: 20%;
+    height: 82vh;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 24px 49px -15px rgba(0,0,0,0.32);
+    margin: 4%;
+}
+
+
+
+
+
+
+/* rgb(219, 199, 199) color */
